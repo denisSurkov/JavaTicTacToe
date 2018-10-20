@@ -1,0 +1,18 @@
+.usual-btn {
+    -fx-background-radius: 90px;
+    -fx-border-radius: 90px;
+    -fx-cursor: crosshair;
+    -fx-background-color:  #FFFE40	;
+    -fx-text-fill:  #19e527;
+}
+
+.selected-btn {
+    -fx-background-radius: 90px;
+    -fx-border-radius: 90px;
+    -fx-background-color: #e4dd54;
+}
+
+
+
+
+
